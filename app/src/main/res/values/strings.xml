@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">InClass 02</string>
+    <string name="ticket_price">Ticket Price:</string>
+    <string name="enter_ticket_price">Enter Ticket Price</string>
+    <string name="_5">5%</string>
+    <string name="discounted">Discounted %:</string>
+    <string name="_95_00">95.00</string>
+    <string name="discount_5">Discount 5%</string>
+    <string name="discount_10">Discount 10%</string>
+    <string name="discount_15">Discount 15%</string>
+    <string name="discount_20">Discount 20%</string>
+    <string name="discount_50">Discount 50%</string>
+    <string name="discounted_price">Discounted Price:</string>
+</resources>
